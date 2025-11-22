@@ -78,7 +78,7 @@ Swagger:
 https://jornadatrabalhoapi20251118140344-hnhyejhnh2hdfyb0.brazilsouth-01.azurewebsites.net/swagger/index.html
 
 ## 9. Vídeo Demonstrativo
-Inserir o link do vídeo (obrigatório pela GS).
+https://youtu.be/lPk_komOumc
 
 ## 10. Conformidade com Requisitos da Global Solution
 - ✔ Boas práticas REST  
@@ -88,5 +88,6 @@ Inserir o link do vídeo (obrigatório pela GS).
 - ✔ Arquitetura documentada  
 - ✔ Deploy em Cloud  
 - ✔ README completo  
+
 
 
