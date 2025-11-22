@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\services\\focoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\services\\focoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\controllers\\fococontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\controllers\\fococontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\data\\jornadacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\data\\jornadacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\controllers\\humorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\controllers\\humorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\controllers\\pausascontroller.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\controllers\\pausascontroller.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\services\\humorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\services\\humorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\services\\pausaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\services\\pausaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\models\\pausa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\models\\pausa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\models\\humorregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\models\\humorregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\models\\focosessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\models\\focosessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\services\\interfaces\\ifocoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\services\\interfaces\\ifocoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\services\\interfaces\\ihumorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\services\\interfaces\\ihumorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\services\\interfaces\\ipausaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\services\\interfaces\\ipausaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|c:\\repo\\fiap\\jornadatrabalhoapi\\jornadatrabalhoapi\\jornadatrabalhoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{411A055A-9C6B-444F-8B86-8495961E6B1C}|JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj|solutionrelative:jornadatrabalhoapi\\jornadatrabalhoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Program.cs",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\Program.cs",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Program.cs",
+              "RelativeToolTip": "JornadaTrabalhoApi\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:40:09.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FocoService.cs",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Services\\FocoService.cs",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\Services\\FocoService.cs",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Services\\FocoService.cs",
+              "RelativeToolTip": "JornadaTrabalhoApi\\Services\\FocoService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:36:14.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HumorService.cs",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Services\\HumorService.cs",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\Services\\HumorService.cs",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Services\\HumorService.cs",
+              "RelativeToolTip": "JornadaTrabalhoApi\\Services\\HumorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:35:57.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PausaService.cs",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Services\\PausaService.cs",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\Services\\PausaService.cs",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Services\\PausaService.cs",
+              "RelativeToolTip": "JornadaTrabalhoApi\\Services\\PausaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:35:33.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FocoSessao.cs",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Models\\FocoSessao.cs",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\Models\\FocoSessao.cs",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Models\\FocoSessao.cs",
+              "RelativeToolTip": "JornadaTrabalhoApi\\Models\\FocoSessao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:34:49.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFocoService.cs",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Services\\Interfaces\\IFocoService.cs",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\Services\\Interfaces\\IFocoService.cs",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Services\\Interfaces\\IFocoService.cs",
+              "RelativeToolTip": "JornadaTrabalhoApi\\Services\\Interfaces\\IFocoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:34:17.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IHumorService.cs",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Services\\Interfaces\\IHumorService.cs",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\Services\\Interfaces\\IHumorService.cs",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Services\\Interfaces\\IHumorService.cs",
+              "RelativeToolTip": "JornadaTrabalhoApi\\Services\\Interfaces\\IHumorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:34:00.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPausaService.cs",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Services\\Interfaces\\IPausaService.cs",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\Services\\Interfaces\\IPausaService.cs",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Services\\Interfaces\\IPausaService.cs",
+              "RelativeToolTip": "JornadaTrabalhoApi\\Services\\Interfaces\\IPausaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:33:26.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PausasController.cs.cs",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Controllers\\PausasController.cs.cs",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\Controllers\\PausasController.cs.cs",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Controllers\\PausasController.cs.cs",
+              "RelativeToolTip": "JornadaTrabalhoApi\\Controllers\\PausasController.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:32:00.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JornadaContext.cs",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Data\\JornadaContext.cs",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\Data\\JornadaContext.cs",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Data\\JornadaContext.cs",
+              "RelativeToolTip": "JornadaTrabalhoApi\\Data\\JornadaContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:40:42.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HumorController.cs",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Controllers\\HumorController.cs",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\Controllers\\HumorController.cs",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Controllers\\HumorController.cs",
+              "RelativeToolTip": "JornadaTrabalhoApi\\Controllers\\HumorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:39:34.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FocoController.cs",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Controllers\\FocoController.cs",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\Controllers\\FocoController.cs",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Controllers\\FocoController.cs",
+              "RelativeToolTip": "JornadaTrabalhoApi\\Controllers\\FocoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:39:54.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\appsettings.json",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\appsettings.json",
+              "RelativeToolTip": "JornadaTrabalhoApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T16:49:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\appsettings.Development.json",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\appsettings.Development.json",
+              "RelativeToolTip": "JornadaTrabalhoApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T16:54:42.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JornadaTrabalhoApi",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj",
+              "RelativeToolTip": "JornadaTrabalhoApi\\JornadaTrabalhoApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-18T16:28:29.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HumorRegistro.cs",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Models\\HumorRegistro.cs",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\Models\\HumorRegistro.cs",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Models\\HumorRegistro.cs",
+              "RelativeToolTip": "JornadaTrabalhoApi\\Models\\HumorRegistro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:22:44.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pausa.cs",
+              "DocumentMoniker": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Models\\Pausa.cs",
+              "RelativeDocumentMoniker": "JornadaTrabalhoApi\\Models\\Pausa.cs",
+              "ToolTip": "C:\\repo\\FIAP\\JornadaTrabalhoApi\\JornadaTrabalhoApi\\Models\\Pausa.cs",
+              "RelativeToolTip": "JornadaTrabalhoApi\\Models\\Pausa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:22:08.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

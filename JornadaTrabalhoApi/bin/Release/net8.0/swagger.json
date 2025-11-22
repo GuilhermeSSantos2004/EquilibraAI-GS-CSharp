@@ -1,0 +1,225 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "JornadaTrabalhoApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/v1/foco/iniciar": {
+      "post": {
+        "tags": [
+          "Foco"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/foco/finalizar": {
+      "post": {
+        "tags": [
+          "Foco"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/foco/{usuarioId}": {
+      "get": {
+        "tags": [
+          "Foco"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "usuarioId",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/humor": {
+      "post": {
+        "tags": [
+          "Humor"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/HumorRegistro"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/humor/{usuarioId}": {
+      "get": {
+        "tags": [
+          "Humor"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "usuarioId",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/pausas": {
+      "post": {
+        "tags": [
+          "Pausas"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Pausa"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/pausas/{usuarioId}": {
+      "get": {
+        "tags": [
+          "Pausas"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "usuarioId",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "HumorRegistro": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "uuid",
+          "type": "string"
+        },
+        "usuarioId": {
+          "type": "string"
+        },
+        "dataRegistro": {
+          "format": "date-time",
+          "type": "string"
+        },
+        "humor": {
+          "type": "string"
+        },
+        "observacao": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "Pausa": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "uuid",
+          "type": "string"
+        },
+        "usuarioId": {
+          "type": "string"
+        },
+        "inicio": {
+          "format": "date-time",
+          "type": "string"
+        },
+        "fim": {
+          "format": "date-time",
+          "type": "string"
+        },
+        "tipo": {
+          "type": "string"
+        },
+        "observacao": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

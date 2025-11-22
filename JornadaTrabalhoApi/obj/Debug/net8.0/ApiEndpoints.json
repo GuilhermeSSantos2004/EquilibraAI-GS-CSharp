@@ -1,0 +1,114 @@
+[
+  {
+    "ContainingType": "JornadaTrabalhoApi.Controllers.FocoController",
+    "Method": "Ciclos",
+    "RelativePath": "api/v1/foco/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JornadaTrabalhoApi.Controllers.FocoController",
+    "Method": "Finalizar",
+    "RelativePath": "api/v1/foco/finalizar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JornadaTrabalhoApi.Controllers.FocoController",
+    "Method": "Iniciar",
+    "RelativePath": "api/v1/foco/iniciar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JornadaTrabalhoApi.Controllers.HumorController",
+    "Method": "Registrar",
+    "RelativePath": "api/v1/humor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registro",
+        "Type": "JornadaTrabalhoApi.Models.HumorRegistro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JornadaTrabalhoApi.Controllers.HumorController",
+    "Method": "Historico",
+    "RelativePath": "api/v1/humor/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JornadaTrabalhoApi.Controllers.PausasController",
+    "Method": "Registrar",
+    "RelativePath": "api/v1/pausas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pausa",
+        "Type": "JornadaTrabalhoApi.Models.Pausa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JornadaTrabalhoApi.Controllers.PausasController",
+    "Method": "Listar",
+    "RelativePath": "api/v1/pausas/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
