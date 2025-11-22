@@ -4,6 +4,6 @@
 - **Guilherme Silva dos Santos** - RM551168  
 - **Sofia Amorim Coutinho** - RM552534
 
-GITHUB: 
+GITHUB: https://github.com/GuilhermeSSantos2004/EquilibraAI-GS-CSharp.git
 
-VIDEO: 
+VIDEO: https://youtu.be/lPk_komOumc
